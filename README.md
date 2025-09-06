@@ -27,7 +27,6 @@ sObject-csv-exporter/
 │   ├── export.html
 │   ├── export.js
 │   ├── export.js-meta.xml
-│   └── export.css   (optional)
 │
 ├── README.md
 ```
